@@ -1,4 +1,4 @@
-# TOH-Sim
+# Tower Of Hanoi Simulator
 ## Tower Of Hanoi Problem : 
 - Tower is a classic problem where you have to move all the stack of disks from one peg to another peg using one auxillary pegs(rods or towers).
 - Initially, all of the disks are stacked on top of each other with larger disks under the smaller disks i.e., the smallest disk is placed on the top.
