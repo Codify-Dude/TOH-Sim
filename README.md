@@ -10,3 +10,5 @@
 - The problem can be easily visualized and understood using this simulator.
 - It simulates each and every step of the solution of this problem visualising the disks going from one rod to another.
 - It also keeps the log of each and every step it performs.
+  
+![Tower of Hanoi Demo](./TOH-SIM-DEMO.gif)
